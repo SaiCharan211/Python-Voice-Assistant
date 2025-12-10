@@ -5,7 +5,7 @@ const ChecklistStatus = React.memo(({ mode, checklistItems }) => (
     <Paper
         elevation={0}
         sx={{
-            p: 2.5,
+            p: 2.4,
             mb: 3,
             borderRadius: 3,
             background: mode === "light" ? "#fafafa" : "rgba(255,255,255,0.06)",

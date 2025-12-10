@@ -316,7 +316,7 @@ function App() {
         maxWidth="xl"
         sx={{
           mt: 2,
-          mb: 4,
+          mb: 4.1,
           display: "flex",
           justifyContent: "space-around",
         }}

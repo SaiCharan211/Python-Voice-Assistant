@@ -39,6 +39,7 @@ export default function CommandsList() {
             sx={{
                 p: 2,
                 mt: 0,
+                height:'50%',
                 width: "120%",           
                 maxWidth: "420px",
                 overflowY: "auto",
